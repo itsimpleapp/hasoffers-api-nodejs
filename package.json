@@ -1,0 +1,18 @@
+{
+    "name": "hasoffers-api",
+    "version": "0.0.1",
+    "description": "API integration with Has Offers",
+    "author": "André Ferreira <andrehrf@gmail.com>",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andrehrf/hasoffers-api-nodejs"
+    },
+    "bugs": {
+        "url": "https://github.com/andrehrf/hasoffers-api-nodejs/issues"
+    },
+    "homepage": "https://github.com/andrehrf/hasoffers-api-nodejs",
+    "dependencies": {
+        "request": "^2.72.0"
+    }
+}
