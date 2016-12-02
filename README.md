@@ -23,7 +23,7 @@ $ npm install hasoffers-api
 ```js
 "use strict";
 
-let HasOffers = require("./index.js"),
+let HasOffers = require("hasoffers-api"),
     hasoffers = new HasOffers("API Key", "Network ID");
     
 hasoffers.profile((err, result) => {
